@@ -1,0 +1,5 @@
+{
+    "backendClass": "me.benjozork.opengui.render.backends.GDXBackend",
+    "rootLayoutPath": "internal://layout.json",
+    "skinPath": "internal://defaultskin/skin.json"
+}

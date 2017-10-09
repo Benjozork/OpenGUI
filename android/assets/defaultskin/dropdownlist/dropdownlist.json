@@ -1,0 +1,114 @@
+{
+    "styles": {
+        "normal": {
+            "button_default": {
+                "path": "relative://button_default.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "button_hovered": {
+                "path": "relative://button_hovered.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "button_expanded": {
+                "path": "relative://button_expanded.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "button_expanded_hovered": {
+                "path": "relative://button_default.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "dropdown_menu_top": {
+                "path": "relative://dropdown_menu_top.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "dropdown_menu_top_hovered": {
+                "path": "relative://dropdown_menu_top_hovered.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "dropdown_menu_top_inverted": {
+                "path": "relative://dropdown_menu_top_inverted.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "dropdown_menu_top_inverted_hovered": {
+                "path": "relative://dropdown_menu_top_inverted_hovered.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "dropdown_menu_middle": {
+                "path": "relative://dropdown_menu_middle.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "dropdown_menu_middle_hovered": {
+                "path": "relative://dropdown_menu_middle_hovered.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "dropdown_menu_bottom": {
+                "path": "relative://dropdown_menu_bottom.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "dropdown_menu_bottom_hovered": {
+                "path": "relative://dropdown_menu_bottom_hovered.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "arrow_collapsed": {
+                "path": "relative://arrow_collapsed.png"
+            },
+            "arrow_expanded": {
+                "path": "relative://arrow_expanded.png"
+            },
+            "center_text": true,
+            "draw_arrow_left": false,
+            "border_arrow_offset": 12,
+            "arrow_width": 15,
+            "arrow_height": 9,
+            "item_height": 35
+        }
+    }
+}

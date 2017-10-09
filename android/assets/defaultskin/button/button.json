@@ -1,0 +1,76 @@
+{
+    "styles": {
+        "normal": {
+            "button_default": {
+                "path": "relative://button_default.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "button_hovered": {
+                "path": "relative://button_hovered.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            }
+        },
+        "confirm_neutral": {
+            "button_default": {
+                "path": "relative://button_default_confirm_neutral.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "button_hovered": {
+                "path": "relative://button_hovered_.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            }
+        },
+        "confirm_positive": {
+            "button_default": {
+                "path": "relative://button_default_confirm_positive.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "button_hovered": {
+                "path": "relative://button_hovered_confirm_positive.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            }
+        },
+        "confirm_negative": {
+            "button_default": {
+                "path": "relative://button_default_confirm_negative.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "button_hovered": {
+                "path": "relative://button_hovered_confirm_negative.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            }
+        }
+    }
+}

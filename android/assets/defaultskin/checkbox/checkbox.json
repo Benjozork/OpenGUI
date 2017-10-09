@@ -1,0 +1,116 @@
+{
+    "styles": {
+        "normal": {
+            "checkbox_default": {
+                "path": "relative://checkbox_default.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "checkbox_hovered": {
+                "path": "relative://checkbox_hovered.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "tick": {
+                "path": "relative://tick.png"
+            },
+            "tick_hovered": {
+                "path": "relative://tick_hovered.png"
+            },
+            "tick_disabled": {
+                "path": "relative://tick_disabled.png"
+            },
+            "width": 32
+        },
+        "highlighted_info": {
+            "checkbox_default": {
+                "path": "relative://checkbox_default_highlighted_info.png",
+                "type": "NinePatch",
+                "left": 13,
+                "right": 13,
+                "top": 13,
+                "bottom": 13
+            },
+            "checkbox_hovered": {
+                "path": "relative://checkbox_hovered_highlighted_info.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "tick": {
+                "path": "relative://tick.png"
+            },
+            "tick_hovered": {
+                "path": "relative://tick_hovered.png"
+            },
+            "tick_disabled": {
+                "path": "relative://tick_disabled.png"
+            },
+            "width": 32
+        },
+        "highlighted_warning": {
+            "checkbox_default": {
+                "path": "relative://checkbox_default_highlighted_warning.png",
+                "type": "NinePatch",
+                "left": 13,
+                "right": 13,
+                "top": 13,
+                "bottom": 13
+            },
+            "checkbox_hovered": {
+                "path": "relative://checkbox_hovered_highlighted_warning.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "tick": {
+                "path": "relative://tick.png"
+            },
+            "tick_hovered": {
+                "path": "relative://tick_hovered.png"
+            },
+            "tick_disabled": {
+                "path": "relative://tick_disabled.png"
+            },
+            "width": 32
+        },
+        "highlighted_error": {
+            "checkbox_default": {
+                "path": "relative://checkbox_default_highlighted_error.png",
+                "type": "NinePatch",
+                "left": 13,
+                "right": 13,
+                "top": 13,
+                "bottom": 13
+            },
+            "checkbox_hovered": {
+                "path": "relative://checkbox_hovered_highlighted_error.png",
+                "type": "NinePatch",
+                "left": 8,
+                "right": 8,
+                "top": 8,
+                "bottom": 8
+            },
+            "tick": {
+                "path": "relative://tick.png"
+            },
+            "tick_hovered": {
+                "path": "relative://tick_hovered.png"
+            },
+            "tick_disabled": {
+                "path": "relative://tick_disabled.png"
+            },
+            "width": 32
+        }
+    }
+}

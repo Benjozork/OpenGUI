@@ -1,0 +1,85 @@
+{
+    "listenerClass": "me.benjozork.opengui.test.TestUIListener",
+    "root": [
+        {
+            "name": "button_0",
+            "class": "me.benjozork.opengui.ui.controls.TextButton",
+            "x": 23,
+            "y": 23,
+            "width": 95,
+            "height": 35,
+            "text": {
+                "text": "Confirm"
+            },
+            "style": "confirm_positive"
+        },
+        {
+            "name": "checkbox_0",
+            "class": "me.benjozork.opengui.ui.controls.CheckBox",
+            "x": 23,
+            "y": 70,
+            "tickWidthRatio": 0.5,
+            "text": {
+                "text": "Checkbox"
+            }
+        },
+        {
+            "name": "dropdown_0",
+            "class": "me.benjozork.opengui.ui.controls.DropdownList",
+            "x": 130,
+            "y": 230,
+            "width": 145,
+            "height": 35,
+            "text": {
+                "text": "List"
+            },
+            "items": [
+                {
+                    "text": "Testy"
+                },
+                {
+                    "text": "Testy 2"
+                },
+                {
+                    "text": "Testy 3"
+                },
+                {
+                    "text": "Testy 4"
+                }
+            ]
+        },
+        {
+            "name": "radiogroup_0",
+            "class": "me.benjozork.opengui.ui.controls.RadioButtonGroup",
+            "children" : [
+                {
+                    "name": "radio_0",
+                    "class": "me.benjozork.opengui.ui.controls.RadioButton",
+                    "x": 23,
+                    "y": 180,
+                    "text": {
+                        "text": "Radio button"
+                    }
+                },
+                {
+                    "name": "radio_1",
+                    "class": "me.benjozork.opengui.ui.controls.RadioButton",
+                    "x": 23,
+                    "y": 148,
+                    "text": {
+                        "text": "Radio button 2"
+                    }
+                },
+                {
+                    "name": "radio_2",
+                    "class": "me.benjozork.opengui.ui.controls.RadioButton",
+                    "x": 23,
+                    "y": 118,
+                    "text": {
+                        "text": "Radio button 3"
+                    }
+                }
+            ]
+        }
+    ]
+}

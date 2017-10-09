@@ -1,0 +1,25 @@
+{
+    "styles": {
+        "normal": {
+            "radiobutton_default": {
+                "path": "relative://radiobutton_default.png"
+            },
+            "radiobutton_hovered": {
+                "path": "relative://radiobutton_hovered.png"
+            },
+            "radiobutton_disabled": {
+                "path": "relative://radiobutton_disabled.png"
+            },
+            "tick_default": {
+                "path": "relative://tick_default.png"
+            },
+            "tick_hovered": {
+                "path": "relative://tick_hovered.png"
+            },
+            "tick_disabled": {
+                "path": "relative://tick_disabled.png"
+            },
+            "width": 20
+        }
+    }
+}
